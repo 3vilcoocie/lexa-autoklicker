@@ -1,0 +1,1 @@
+setInterval(function () {document.querySelector("button[class*='interaction--yes']").click();}, 1000) >
